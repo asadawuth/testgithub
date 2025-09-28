@@ -1,0 +1,13 @@
+git init เชื่อม git
+git add ตามด้วยชื่อไฟล์
+git status เพิ่มอะไรเข้าไปบ้าง
+git add commit -m "ชื่อสิ่งที่ commit ไว้ ให้เหมาะสมกับงานที่ทำ"
+git diff ตามด้วยชื่อไฟล์ว่าไฟล์ มีการปรับเปลี่ยนอะไรบ้าง
+git branch เรากำลังอยู่ branch ไหน
+git checkout ตามด้วยชื่อ branch คือการเปลี่ยน branch
+git checkout -b ตามด้วยชื่อที่ต้องการร้าง branch ใหม่
+git merge ตามด้วยชื่อ branch
+wq ออกเวลา merge แล้วออกมจากห้องไม่ได้
+// ตอนใช้ เริ่มแรก
+git config --global user.name "FIRST_NAME LASTNAME"
+git config --global user.email "MY_NAME@example.com"
